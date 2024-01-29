@@ -4,6 +4,8 @@ Este repositorio contiene dos scripts de Python relacionados con la calibración
 
 La calibración se basa en los datos disponibles en [este enlace](https://academic.oup.com/mnras/article/463/4/4052/2646316).
 
+Este código forma parte de un trabajo práctio de Estructura y Dinámica Galáctica, en el Máster Universitario en Astrofísica y Técnicas de Observación en Astronomía de UNIR.
+
 ## Scripts Disponibles
 
 ### tully_fisher_cal.py
